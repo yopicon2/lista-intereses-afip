@@ -1,6 +1,6 @@
 [
   {"startdate": "2024-12-01", "enddate": "2999-11-30", "value": 0.249},
-  {"startdate": "2024-10-01", "enddate": "2024-12-01", "value": 0.213667},
+  {"startdate": "2024-10-01", "enddate": "2024-11-30", "value": 0.213667},
   {"startdate": "2024-08-01", "enddate": "2024-09-30", "value": 0.213667},
   {"startdate": "2024-06-01", "enddate": "2024-07-31", "value": 0.213667},
   {"startdate": "2024-04-01", "enddate": "2024-05-31", "value": 0.402333},
